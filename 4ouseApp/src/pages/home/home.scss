@@ -1,0 +1,72 @@
+page-home {
+	.master{		
+	}
+
+	.cocina{
+	
+		height: 100px;
+		width: 190px;
+		border-style: solid;
+		
+	}
+
+	.baño,
+	.dormitorio1,
+	.dormitorio2,
+	.cochera {
+		height: 100px;
+		width: 50px;
+		border-style: solid;
+	}
+
+	.baño{
+		margin-left: -13px;
+		height: 100px;
+		width: 63px;
+		border-style: solid;
+	}
+
+	.baño:active{
+		background-color: red;
+	}
+
+	
+
+	.dormitorio1 {
+		height: 100px;
+		width: 170px;
+		border-style: solid;
+	}
+
+	.dormitorio2 {
+		margin-left: -13px;
+		height: 100px;
+		width: 83px;
+		border-style: solid;
+	}
+
+	.cochera {
+		height: 50px;
+		width: 250px;
+		border-style: solid;
+	}
+
+	.pasillo {
+		height: 15px;
+		width: 250px;
+		border-style: solid;
+	}
+	
+	.cocina,
+	.baño,
+	.dormitorio1,
+	.dormitorio2,
+	.cochera,
+	.pasillo{
+		margin-bottom: -13px;
+	}
+
+
+
+
+}
